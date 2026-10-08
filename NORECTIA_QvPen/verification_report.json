@@ -1,0 +1,577 @@
+{
+  "file": "NORECTIA_QvPen_Custom_v02.blend",
+  "file_size_kb": 1109.2,
+  "hierarchy": {
+    "NORECTIA_Pen": [
+      "GripPoint",
+      "PenCenter",
+      "PenTip",
+      "Pen_Body",
+      "Pen_ColorWindow_01",
+      "Pen_ColorWindow_02",
+      "Pen_ColorWindow_03",
+      "Pen_RearFrame",
+      "Pen_TipMesh"
+    ],
+    "NORECTIA_PenStand": [
+      "Stand_Base",
+      "Stand_Front",
+      "Stand_Rear"
+    ]
+  },
+  "hierarchy_ok": true,
+  "pen_local_bbox_min_mm": [
+    -175.0,
+    -15.98,
+    -13.04
+  ],
+  "pen_local_bbox_max_mm": [
+    175.0,
+    15.98,
+    13.05
+  ],
+  "pen_size_mm(LxWxT)": [
+    350.0,
+    31.96,
+    26.09
+  ],
+  "pen_body_size_mm": [
+    286.2,
+    31.96,
+    26.09
+  ],
+  "rear_frame_size_mm": [
+    53.0,
+    31.0,
+    26.0
+  ],
+  "stand_bbox_min_mm": [
+    -194.52,
+    -35.0,
+    0.0
+  ],
+  "stand_bbox_max_mm": [
+    194.66,
+    35.0,
+    142.85
+  ],
+  "stand_size_mm(LxDxH)": [
+    389.18,
+    70.0,
+    142.85
+  ],
+  "Stand_Base_size_mm": [
+    345.11,
+    70.0,
+    25.0
+  ],
+  "Stand_Front_size_mm": [
+    30.0,
+    25.0,
+    11.83
+  ],
+  "Stand_Rear_size_mm": [
+    80.22,
+    59.91,
+    142.85
+  ],
+  "section_WxT_mm": {
+    "-145": [
+      12.76,
+      10.53
+    ],
+    "-98": [
+      25.9,
+      21.19
+    ],
+    "-49": [
+      30.9,
+      25.04
+    ],
+    "35": [
+      31.96,
+      25.4
+    ],
+    "100": [
+      31.11,
+      25.74
+    ]
+  },
+  "display_angle_deg": 16.0,
+  "pen_root_world_location_mm": [
+    -0.56,
+    0.0,
+    81.74
+  ],
+  "empties_local_mm": {
+    "PenTip": [
+      -175.0,
+      0.0,
+      0.0
+    ],
+    "GripPoint": [
+      -98.0,
+      0.0,
+      0.0
+    ],
+    "PenCenter": [
+      0.0,
+      0.0,
+      0.0
+    ]
+  },
+  "writing_ball_front_x_mm": -175.0,
+  "transforms": {
+    "GripPoint": {
+      "loc_mm": [
+        -98.0,
+        0.0,
+        0.0
+      ],
+      "rot_deg": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    "Pen_Body": {
+      "loc_mm": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "rot_deg": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    "Pen_ColorWindow_01": {
+      "loc_mm": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "rot_deg": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    "Pen_ColorWindow_02": {
+      "loc_mm": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "rot_deg": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    "Pen_ColorWindow_03": {
+      "loc_mm": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "rot_deg": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    "Pen_RearFrame": {
+      "loc_mm": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "rot_deg": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    "Pen_TipMesh": {
+      "loc_mm": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "rot_deg": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    "PenCenter": {
+      "loc_mm": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "rot_deg": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    "PenTip": {
+      "loc_mm": [
+        -175.0,
+        0.0,
+        0.0
+      ],
+      "rot_deg": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    "Stand_Base": {
+      "loc_mm": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "rot_deg": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    "Stand_Front": {
+      "loc_mm": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "rot_deg": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    "Stand_Rear": {
+      "loc_mm": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "rot_deg": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    "NORECTIA_Pen": {
+      "loc_mm": [
+        -0.56,
+        0.0,
+        81.74
+      ],
+      "rot_deg": [
+        0.0,
+        -16.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    "NORECTIA_PenStand": {
+      "loc_mm": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "rot_deg": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    }
+  },
+  "triangles": {
+    "Pen_Body": 726,
+    "Pen_ColorWindow_01": 2,
+    "Pen_ColorWindow_02": 2,
+    "Pen_ColorWindow_03": 2,
+    "Pen_RearFrame": 364,
+    "Pen_TipMesh": 292,
+    "Stand_Base": 92,
+    "Stand_Front": 48,
+    "Stand_Rear": 150
+  },
+  "triangles_pen_total": 1388,
+  "triangles_stand_total": 290,
+  "triangles_total": 1678,
+  "materials_per_object": {
+    "Pen_Body": [
+      "MAT_Pen_Charcoal",
+      "MAT_Metal_Champagne",
+      "MAT_DarkMetal"
+    ],
+    "Pen_ColorWindow_01": [
+      "MAT_ColorWindow"
+    ],
+    "Pen_ColorWindow_02": [
+      "MAT_ColorWindow"
+    ],
+    "Pen_ColorWindow_03": [
+      "MAT_ColorWindow"
+    ],
+    "Pen_RearFrame": [
+      "MAT_Metal_Champagne"
+    ],
+    "Pen_TipMesh": [
+      "MAT_Metal_Champagne",
+      "MAT_DarkMetal"
+    ],
+    "Stand_Base": [
+      "MAT_Stand_Stone",
+      "MAT_Metal_Champagne"
+    ],
+    "Stand_Front": [
+      "MAT_Stand_Stone",
+      "MAT_Metal_Champagne"
+    ],
+    "Stand_Rear": [
+      "MAT_Stand_Stone",
+      "MAT_Metal_Champagne"
+    ]
+  },
+  "materials_used": [
+    "MAT_ColorWindow",
+    "MAT_DarkMetal",
+    "MAT_Metal_Champagne",
+    "MAT_Pen_Charcoal",
+    "MAT_Stand_Stone"
+  ],
+  "material_count": 5,
+  "modifiers": {
+    "Pen_Body": [
+      [
+        "BEVEL",
+        0.35
+      ],
+      [
+        "WEIGHTED_NORMAL",
+        0.0
+      ]
+    ],
+    "Pen_ColorWindow_01": [],
+    "Pen_ColorWindow_02": [],
+    "Pen_ColorWindow_03": [],
+    "Pen_RearFrame": [
+      [
+        "BEVEL",
+        0.3
+      ],
+      [
+        "WEIGHTED_NORMAL",
+        0.0
+      ]
+    ],
+    "Pen_TipMesh": [
+      [
+        "BEVEL",
+        0.12
+      ],
+      [
+        "WEIGHTED_NORMAL",
+        0.0
+      ]
+    ],
+    "Stand_Base": [
+      [
+        "BEVEL",
+        0.7
+      ],
+      [
+        "WEIGHTED_NORMAL",
+        0.0
+      ]
+    ],
+    "Stand_Front": [
+      [
+        "BEVEL",
+        0.7
+      ],
+      [
+        "WEIGHTED_NORMAL",
+        0.0
+      ]
+    ],
+    "Stand_Rear": [
+      [
+        "BEVEL",
+        0.7
+      ],
+      [
+        "WEIGHTED_NORMAL",
+        0.0
+      ]
+    ]
+  },
+  "uv_layers": {
+    "Pen_Body": [
+      "UVMap"
+    ],
+    "Pen_ColorWindow_01": [
+      "UVMap"
+    ],
+    "Pen_ColorWindow_02": [
+      "UVMap"
+    ],
+    "Pen_ColorWindow_03": [
+      "UVMap"
+    ],
+    "Pen_RearFrame": [
+      "UVMap"
+    ],
+    "Pen_TipMesh": [
+      "UVMap"
+    ],
+    "Stand_Base": [
+      "UVMap"
+    ],
+    "Stand_Front": [
+      "UVMap"
+    ],
+    "Stand_Rear": [
+      "UVMap"
+    ]
+  },
+  "images": [
+    {
+      "name": "T_Stand_Stone_Marble_1024",
+      "size": [
+        1024,
+        1024
+      ],
+      "filepath": "//textures/T_Stand_Stone_Marble_1024.png",
+      "packed": true
+    }
+  ],
+  "mesh_checks": {
+    "Pen_Body": {
+      "non_manifold_edges": 8,
+      "zero_area_faces": 0
+    },
+    "Pen_ColorWindow_01": {
+      "non_manifold_edges": 4,
+      "zero_area_faces": 0
+    },
+    "Pen_ColorWindow_02": {
+      "non_manifold_edges": 4,
+      "zero_area_faces": 0
+    },
+    "Pen_ColorWindow_03": {
+      "non_manifold_edges": 4,
+      "zero_area_faces": 0
+    },
+    "Pen_RearFrame": {
+      "non_manifold_edges": 0,
+      "zero_area_faces": 0
+    },
+    "Pen_TipMesh": {
+      "non_manifold_edges": 32,
+      "zero_area_faces": 0
+    },
+    "Stand_Base": {
+      "non_manifold_edges": 0,
+      "zero_area_faces": 0
+    },
+    "Stand_Front": {
+      "non_manifold_edges": 8,
+      "zero_area_faces": 0
+    },
+    "Stand_Rear": {
+      "non_manifold_edges": 14,
+      "zero_area_faces": 0
+    }
+  },
+  "pen_vs_stand_overlap_pairs": {
+    "Stand_Base": 0,
+    "Stand_Front": 0,
+    "Stand_Rear": 0
+  },
+  "pen_to_stand_min_gap_mm": {
+    "Stand_Base": 7.782,
+    "Stand_Front": 0.149,
+    "Stand_Rear": 0.035
+  },
+  "stand_base_top_z_mm": 25.0,
+  "stand_front_min_z_mm": 25.0,
+  "stand_rear_min_z_mm": 0.0
+}
